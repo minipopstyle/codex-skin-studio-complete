@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "video-img6275",
+  "name": "Codex视频皮肤-IMG6275",
+  "homepageStyle": "default",
+  "brandSubtitle": "CODEX DREAM SKIN",
+  "tagline": "It's time to crown the new king, Tibo.",
+  "heroTitle": "Make ChatGPT Great Again",
+  "heroBody": "It's time to crown the new king, Tibo.",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  选择项目",
+  "statusText": "DREAM SKIN ONLINE",
+  "quote": "MAKE SOMETHING WONDERFUL",
+  "image": "poster.jpg",
+  "video": "background.mp4",
+  "appearance": "dark",
+  "colors": {
+    "background": "#050505",
+    "panel": "rgba(0, 0, 0, .74)",
+    "panelAlt": "#111111",
+    "accent": "#f5f5f5",
+    "accentAlt": "#ffffff",
+    "secondary": "#d0d0d0",
+    "highlight": "#ffffff",
+    "text": "#ffffff",
+    "muted": "#d0d0d0",
+    "line": "rgba(255, 255, 255, .28)"
+  },
+  "art": {
+    "safeArea": "center",
+    "taskMode": "ambient",
+    "focusX": 0.5,
+    "focusY": 0.4
+  }
+}

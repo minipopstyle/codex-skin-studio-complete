@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "web-mainframe",
+  "name": "Mainframe",
+  "brandSubtitle": "LABS, STUDIO, OPENINGS, SHOP",
+  "tagline": "It's time to crown the new king, Tibo.",
+  "heroTitle": "Make ChatGPT Great Again",
+  "heroBody": "It's time to crown the new king, Tibo.",
+  "homepageStyle": "mainframe",
+  "projectPrefix": "",
+  "projectLabel": "",
+  "statusText": "",
+  "quote": "",
+  "image": "poster.jpg",
+  "video": "background.mp4",
+  "appearance": "light",
+  "colors": {
+    "background": "#ffffff",
+    "panel": "#ffffff",
+    "panelAlt": "#f3f3f3",
+    "accent": "#000000",
+    "accentAlt": "#ffffff",
+    "secondary": "#000000",
+    "highlight": "#000000",
+    "text": "#000000",
+    "muted": "#000000",
+    "line": "rgba(0, 0, 0, .12)"
+  },
+  "art": {
+    "safeArea": "center",
+    "taskMode": "ambient",
+    "focusX": 0.7,
+    "focusY": 0.5
+  }
+}

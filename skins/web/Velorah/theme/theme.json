@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "web-velorah",
+  "name": "Velorah",
+  "brandSubtitle": "HOME   STUDIO   ABOUT   JOURNAL   REACH US",
+  "tagline": "A cinematic Codex workspace.",
+  "heroTitle": "Where dreams rise through the silence.",
+  "heroBody": "We're designing tools for deep thinkers, bold creators, and quiet rebels. Amid the chaos, we build digital spaces for sharp focus and inspired work.",
+  "heroMuted": "dreams|through the silence.",
+  "homepageStyle": "velorah",
+  "projectPrefix": "Choose project · ",
+  "projectLabel": "◉  Choose project",
+  "statusText": "Begin Journey",
+  "quote": "BEGIN JOURNEY",
+  "image": "poster.jpg",
+  "video": "background.mp4",
+  "appearance": "dark",
+  "colors": {
+    "background": "#002941",
+    "panel": "#062c42",
+    "panelAlt": "#0b3b55",
+    "accent": "#ffffff",
+    "accentAlt": "#dce9ed",
+    "secondary": "#9ed7e5",
+    "highlight": "#4f8096",
+    "text": "#ffffff",
+    "muted": "#bec9d0",
+    "line": "rgba(255, 255, 255, .20)"
+  },
+  "art": {
+    "safeArea": "center",
+    "taskMode": "ambient",
+    "focusX": 0.5,
+    "focusY": 0.4
+  }
+}

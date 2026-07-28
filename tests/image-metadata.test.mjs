@@ -14,9 +14,9 @@ const macosRoot = path.resolve(here, "..");
 
 const portal = await fs.readFile(path.join(macosRoot, "assets", "portal-hero.png"));
 assert.deepEqual(readImageMetadata(portal, ".png"), {
-  width: 2168,
-  height: 725,
-  ratio: 2168 / 725,
+  width: 2172,
+  height: 724,
+  ratio: 2172 / 724,
   wide: true,
   aspect: "ultrawide",
   taskMode: "banner",
